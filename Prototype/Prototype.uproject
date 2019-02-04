@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4E5DC33D-4AC9-E685-FF7E-EDAD4D2299C6}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
